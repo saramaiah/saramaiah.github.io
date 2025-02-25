@@ -24,6 +24,18 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// Added colors
+$palette-blue: #284B63;
+$palette-blue-dark: #172A3A;
+$palette-green: #568259;
+$palette-green-light: #BAE8BA;
+$palette-purple: #7481BE;
+$palette-cyan: #3C6E71;
+$palette-cyan-light: #4F9396;
+$palette-gray: #353535;
+$palette-gray-light: #D9D9D9;
+
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
@@ -34,8 +46,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: rgba($palette-green, 0.25);
+$code-bg-color-dark: rgba($palette-blue-dark, 0.25);
 
 // Font awesome location
 $fa-font-path: "../webfonts";
