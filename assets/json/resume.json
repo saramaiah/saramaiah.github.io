@@ -23,9 +23,14 @@
       "startDate": "2022-09",
       "endDate": "2024-05",
       "summary": "Starting as an undergraduate and graduating to a full-time position, I specialized in bioinformatics while maintaining deep involvement in hands-on benchtop lab work.",
-      "highlights": ["Single Cell RNA Sequencing", "Metagenomics", "RNA FISH", "Mouse colony management", "Mouse handling, procedures, and dissections"]
+      "highlights": [
+        "Single Cell RNA Sequencing",
+        "Metagenomics",
+        "RNA FISH",
+        "Mouse colony management",
+        "Mouse handling, procedures, and dissections"
+      ]
     }
-
   ],
   "volunteer": [
     {
@@ -89,7 +94,7 @@
       "releaseDate": "2019-12",
       "url": "https://www.jsr.org/hs/index.php/path/article/view/742",
       "summary": "Study modeling differential temperature conditions and monitoring effects on germination and growth of A. thaliana."
-    }  
+    }
   ],
   "skills": [
     {
