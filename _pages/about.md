@@ -14,4 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a research assistant at Case Western Reserve University, working in the [Burberry Lab](https://burberrylab.org/) in the Department of Pathology. I am primarily interested in applications of computational biology and bioinformatics to neuroscience research. I am currently in the application process for M.D./Ph.D. programs, in which I plan to pursue clinical research in neurology.
+Hello! I am a research assistant at Case Western Reserve University, working in the [Burberry Lab](https://burberrylab.org/) in the Department of Pathology. I am primarily interested in applications of computational biology and bioinformatics to neuroscience research. I'm currently working on packaging bioinformatics packages with Nix for inclusion in the nixpkgs repository. Look out for future posts detailing my experiences with Linux, package/project management, and current bioinformatics tools.
