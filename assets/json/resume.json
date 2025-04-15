@@ -3,9 +3,9 @@
     "name": "Sara Ramaiah",
     "label": "Research Assistant",
     "image": "",
-    "email": "sara.ramaiah@case.edu",
+    "email": "ramaiahsara [at] gmail.com",
     "url": "https://saramaiah.github.io",
-    "summary": "Research scientist specializing in bioinformatics tools and applications."
+    "summary": "Bioinformatics research scientist with over 2 years full-time equivalent experience. Specializes in bridging the gap between bioinformatics and software engineering, with broad proficiencies in biological wet lab research in pathology/immunology."
   },
   "work": [
     {
@@ -14,7 +14,11 @@
       "url": "https://www.uhhospitals.org/",
       "startDate": "2024-01",
       "endDate": "2024-06",
-      "summary": "On a high-acuity medical-surgical floor, cared for up to 15 patients simultaneously, maintaining hygeine, comfort, and safety alongside nursing staff."
+      "summary": "On a high-acuity medical-surgical floor, cared for up to 15 patients simultaneously, maintaining hygeine, comfort, and safety alongside nursing staff.",
+      "highlights": [
+        "Epic EHR system for recording patient data and communicating with providers",
+        "Excelled at communicating disease and medical treatment biology to non-technically oriented patients."
+      ]
     },
     {
       "name": "Burberry Lab, CWRU Department of Pathology",
@@ -24,11 +28,32 @@
       "endDate": "2024-05",
       "summary": "Starting as an undergraduate and graduating to a full-time position, I specialized in bioinformatics while maintaining deep involvement in hands-on benchtop lab work.",
       "highlights": [
-        "Single Cell RNA Sequencing",
-        "Metagenomics",
-        "RNA FISH",
-        "Mouse colony management",
-        "Mouse handling, procedures, and dissections"
+        "Led the lab’s computational biology development, including configuring AWS resources, packaging stable implementations of core software, and developing next-generation sequencing analysis pipelines.",
+        "Spearheaded analysis of single cell RNA sequencing in R, and 16S gut microbial sequencing in Python with Nextflow. ",
+        "Designed exploratory analysis of Alzheimer's Disease patient sample data via applications of graph data science to the Reactome database and scikit-learn predictive analysis methods.",
+        "Managed multiple undergraduate students in a collaborative project, fostering good lab practices and communication.",
+        "Supported mouse model research, performing drug administration via IP injection and oral gavage, probiotic administration, behavioral testing, mouse husbandry, and dissections for ex vivo tissue collection."
+      ]
+    },
+    {
+      "name": "CWRU Department of Computer Science",
+      "position": "Teaching Assistant, CSDS 310: Analysis of Algorithms",
+      "startDate": "2023-08",
+      "endDate": "2023-12",
+      "summary": "Supported classroom instruction with small group meetings, office hours, and written feedback.",
+      "highlights": [
+        "Taught a class of 20 students weekly, focusing on translating theory into actionable problem-solving skills.",
+        "Delivered detailed explanations in office hours and detailed feedback on assignments for students needing support, reframing and communicating key concepts to a diverse array of student needs."
+      ]
+    },
+    {
+      "name": "CWRU Department of Biochemistry",
+      "position": "Summer Undergraduate Research Student",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "highlights": [
+        "Studied RNA-binding proteins in naive and mature T cells via cell culture with Jurkat cell line.",
+        "Designed DNA plasmids and restriction enzyme screening protocols for recombinant protein synthesis with E. coli."
       ]
     }
   ],
